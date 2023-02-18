@@ -1,0 +1,355 @@
+Menus:
+  main:
+    - identifier: blog
+      name: Блог
+      title: Блог
+      url: /blogs
+      weight: 1
+    - identifier: gallery
+      name: Фото
+      title: Фото
+      url: /gallery
+      weight: 2
+    #Dropdown menu
+    # - identifier: dropdown
+    #   title: Example dropdown menu
+    #   name: Dropdown
+    #   weight: 3
+    # - identifier: dropdown1
+    #   title: example dropdown 1
+    #   name: example 1
+    #   url: /#
+    #   parent: dropdown
+    #   weight: 1
+    # - identifier: dropdown2
+    #   title: example dropdown 2
+    #   name: example 2
+    #   url: /#
+    #   parent: dropdown
+    #   weight: 2
+
+params:
+  title: "Александра Булгакова"
+  description: ""
+  # staticPath: ""  # The path to serve the static files from
+  favicon: "./fav.png"
+
+  # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
+  # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
+  # Note the lack of "" in true, it should be of boolean type.
+  useBootstrapCDN: false
+
+  # If you want to load dynamically responsive images from Cloudinary
+  # This requires your images to be uploaded + hosted on Cloudinary
+  # Uncomment and change YOUR_CLOUD_NAME to the Cloud Name in your Cloudinary console
+  # cloudinary_cloud_name: "YOUR_CLOUD_NAME"
+
+  # Whether the fade animations on the home page will be enabled
+  animate: true
+
+  theme:
+    # disableThemeToggle: true
+    # defaultTheme: "light" # dark
+
+  font:
+    fontSize: 1rem # default: 1rem
+    fontWeight: 400 # default: 400
+    lineHeight: 1.5 # default: 1.5
+    textAlign: left # default: left
+
+  # color preference
+  # color:
+  #   textColor:
+  #   secondaryTextColor:
+  #   backgroundColor:
+  #   secondaryBackgroundColor:
+  #   primaryColor:
+  #   secondaryColor:
+
+  #   darkmode:
+  #     textColor:
+  #     secondaryTextColor:
+  #     backgroundColor:
+  #     secondaryBackgroundColor:
+  #     primaryColor:
+  #     secondaryColor:
+
+  # If you want to customize the menu, you can change it here
+  navbar:
+    align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
+    # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
+    showBrandLogo: false # Show brand logo in nav bar | default is true
+    brandName: "" # Brand name for the brand | default is the title variable
+    disableSearch: false
+    menus:
+      disableAbout: false
+      disableExperience: false
+      disableEducation: false
+      disableProjects: false
+      disableAchievements: false
+      disableContact: false
+
+  # Hero
+  hero:
+    enable: true
+    intro: "Привет, я"
+    title: "Александра Булгакова"
+    subtitle: ""
+    content: |-
+      Пролетаю над гнездом кукушки, наслаждаюсь открывшейся панорамой 🚀
+
+      Дни измеряются ĸоличеством написанных стихов.<br/>Есть один, значит день прошёл не зря ✍️
+    image: ../images/hero.jpg
+    # roundImage: true # Make hero image circular | default false
+    button:
+      enable: true
+      name: "Резюме"
+      url: "/doc/cv.pdf"
+      download: true
+      newPage: false
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-instagram
+          url: https://www.instagram.com/bipoliarnaya.zvezda/
+        - icon: fab fa-linkedin-in
+          url: https://www.linkedin.com/in/xandracurtis
+       # - icon: fab fa-github
+       #   url: https://github.com/tattooedwriter
+        # - icon: fab fa-twitter
+        #   url: https://example.com
+      # customIcons:
+      #   - icon: /fav.png
+      #     url: "https://example.com"
+
+  # About
+  about:
+    enable: true
+    title: "Обо мне"
+    image: "/images/about.jpg"
+    content: |-
+      Меня зовут Александра, и я писатель-фрилансер, страстно увлеченная созданием убедительного контента, который привлекает и информирует читателей. Имея опыт в области языка и письма, я отточила свои навыки рассказывания историй, исследований и владения языком, что позволяет мне с легкостью решать широкий спектр писательских проектов.
+
+      Ищете ли вы статьи, сообщения в блогах, контент веб-сайта, обновления в социальных сетях или что-то среднее, я здесь, чтобы помочь вам создать высококачественный, привлекательный контент, который найдет отклик у вашей аудитории. Я писатель, ориентированный на детали, с упором на точность и ясность, гарантирующий, что ваш контент не только привлекательный, но и информативный и заслуживающий доверия.
+
+      Стремясь соблюдать сроки, эффективно общаться и сотрудничать с клиентами, я тесно сотрудничаю с ними, чтобы предоставлять контент, отвечающий их уникальным потребностям и целям. Я гибкая, открыта для обратной связи и стремлюсь создавать наилучший возможный контент.
+
+      Так что, независимо от того, являетесь ли вы частным лицом, владельцем малого бизнеса или корпорацией, если вам нужен высококачественный привлекательный контент, который выделяет вас, не ищите дальше. Я здесь, чтобы помочь вам воплотить ваши идеи в жизнь и рассказать свою историю так, чтобы она была связана с вашей аудиторией. Давайте работать вместе, чтобы создать что-то великое!
+    skills:
+      enable: true
+      title: "Свободно пишу и говорю:"
+      items:
+        - "Английский"
+        - "Русский"
+        - "Украинский"
+
+  # Experience
+  experience:
+    enable: true
+    title: "Опыт работы"
+    items:
+      - job: "Независимый писатель"
+        company: "Freelance"
+        companyUrl: "https://bipoliarnayazvezda.github.io"
+        date: "Ноябрь 2010 - настоящее время"
+        featuredLink:
+          enable: false
+          name: "View the project"
+          url: "https://example.com"
+        content: ""
+
+      - job: "Внештатный копирайтер"
+        company: "TemplateMonster"
+        companyUrl: "https://www.templatemonster.com/"
+        date: "Сентябрь 2016 - Июль 2020"
+        featuredLink:
+          enable: false
+          url: "https://www.templatemonster.com/"
+        info:
+          enable: false
+          content: I worked as a software developer for more than one year in Amazon.
+        content: ""
+
+      - job: "Независимый писатель"
+        company: "Envato"
+        companyUrl: "https://www.envato.com/"
+        date: "Март 2017 - Июнь 2020"
+        info:
+          enable: false
+        featuredLink:
+          enable: false
+          url: "https://example.com"
+        content: ""
+
+      - job: "Автор контента"
+        company: "Govitall"
+        companyUrl: "https://govitall.com/"
+        date: "Июль 2018 - Октябрь 2019"
+        featuredLink:
+          enable: false
+          url: "https://example.com"
+        content: Создатель контента, автор новостей, редактор, эксперт по последним тенденциям и т.д.
+
+  # Education
+  education:
+    enable: false
+    # title: "Custom Name"
+    index: false
+    items:
+      - title: "Master of Business Administration"
+        school:
+          name: "University of California, Berkeley"
+          url: "https://example.org"
+        date: "2013 - 2015"
+        GPA: "3.8 out of 5.0"
+        content: |-
+          Extracurricular Activities
+            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+      - title: "Bachelor of Science in Computer Science"
+        school:
+          name: "Massachusetts Institute of Technology"
+          url: "https://example.org"
+        date: "2009 - 2013"
+        GPA: "3.9 out of 5.0"
+        content: |-
+          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+          - Face mask detection using a single convolutional neural network.
+
+          Extracurricular Activities
+            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+        featuredLink:
+          enable: true
+          name: "My academic record"
+          url: "https://example.com"
+      - title: "High School"
+        school:
+          name: "Thomas Jefferson High School for Science and Technology."
+          url: "https://example.org"
+        GPA: "4.2 out of 5.0"
+        featuredLink:
+          enable: true
+          url: "https://example.com"
+
+  # Achievements
+  achievements:
+    enable: false
+    # title: "Custom Name"
+    items:
+      - title: Google kickstart runner
+        content: I solved all problems with optimal solution.
+        url: https://example.com
+      - title: Facebook Hackathon Winner
+        content: Developed a product using Artificial Intelligence.
+      - title: Hugo Profile
+        content: Developed a theme and getting 1K+ downloads per month.
+        url: "https://github.com/gurusabarish/hugo-profile"
+      - title: Microsoft Imagine Runner
+        content: We are developed a product which can help others.
+      - title: Google Summer of Code
+        content: Contributed to a open source project.
+        url: https://example.com
+
+  # projects
+  projects:
+    enable: true
+    title: "Книги"
+    items:
+      - title: Бессонница
+        content: ""
+        image: ""
+        featured:
+          name: Читать книгу
+          link: https://bipoliarnayazvezda.github.io/insomnia/
+        links:
+          - icon: fa fa-book
+            url: https://bipoliarnayazvezda.github.io/insomnia/insomnia.epub
+        # badges:
+        #   - "Hugo"
+        #   - "Bootstrap"
+        #   - "Javascript"
+        # links:
+        #   - icon: fa fa-envelope
+        #     url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+        #   - icon: fab fa-github
+        #     url: https://github.com/gurusabarish/hugo-profile
+        #   - icon: fab fa-twitter
+        #     url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+
+      - title: Когда меня вскрывали в морге
+        content: Обаятельный детектив Икабод Харт с успехом расследует самые запутанные убийства.
+        image: ""
+        featured:
+          name: Купить
+          link: https://www.labirint.ru/books/501842/
+        badges:
+          - "Детектив"
+          - "Нуар"
+        # links:
+        #   - icon: fab fa-github
+        #     url: https://github.com/gurusabarish/converter
+
+      # - title: Hugo Profile V2
+      #   content: A clean and simple Hugo template for personal portfolio and blog.
+      #   image: /images/projects/profile2.jpg
+      #   featured:
+      #     name: Demo V2
+      #     link: https://hugo-profile-2.netlify.app
+      #   badges:
+      #     - "Hugo"
+      #     - "Bootstrap"
+      #     - "Javascript"
+      #   links:
+      #     - icon: fab fa-github
+      #       url: https://github.com/gurusabarish/HugoProfileV2
+
+  #Contact
+  contact:
+    enable: true
+    title: "Связаться со мной"
+    content: Если у вас есть вопрос или вы просто хотите сказать привет, я сделаю все возможное, чтобы ответить вам!
+    email: email@example.com
+    btnName: Написать мне
+    # formspree:
+    #   enable: true # `contact.email` value will be ignored
+    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
+    #   emailCaption: "Enter your email address"
+    #   messageCaption: "Enter your message here"
+
+  footer:
+    recentPosts:
+      path: "blogs"
+      count: 3
+      title: Блог
+      enable: true
+      disableFeaturedImage: true
+    socialNetworks:
+      #github: https://github.com
+      linkedin: https://www.linkedin.com/in/xandracurtis
+      #twitter: https://twitter.com
+      instagram: https://www.instagram.com/bipoliarnaya.zvezda/
+      #facebook: https://facebook.com
+
+  # List pages like blogs and posts
+  listPages:
+    disableFeaturedImage: false
+
+  # Single pages like blog and post
+  singlePages:
+    readTime:
+      enable: true
+      content: "min read"
+
+  # For translations
+  terms:
+    read: "Читать"
+    toc: "Содержание"
+    copyright: "Все права защищены"
+    pageNotFound: "Страница не найдена"
+    emailText: "Проверьте этот сайт"
+
+  datesFormat:
+    article: "Jan 2, 2006"
+    articleList: "Jan 2, 2006"
+    articleRecent: "Jan 2, 2006"

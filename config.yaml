@@ -1,0 +1,38 @@
+baseURL: "https://bipoliarnayazvezda.github.io/"
+languageCode: "ru-ru"
+title: ""
+theme: hugo-profile
+publishDir: docs
+
+defaultContentLanguage: "ru"
+
+ignoreErrors: ["error-remote-getjson"]
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
+Paginate: 3
+enableRobotsTXT: true
+# disqusShortname: your-disqus-shortname
+# googleAnalytics: G-MEASUREMENT_ID
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  custom_js:
+    - "js/jquery-3.4.1.min.js"
+    - "js/jquery.fancybox.min.js"
+    - "js/lazysizes.min.js"
+    - "js/imagesloaded.pkgd.min.js"
+  custom_css:
+    - "css/gallery.css"
+    - "css/jquery.fancybox.min.css"
