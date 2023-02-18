@@ -104,7 +104,7 @@ params:
     button:
       enable: true
       name: "Резюме"
-      url: "/doc/cv.pdf"
+      url: "/doc/alexandra-bulgakova-writer.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -309,7 +309,7 @@ params:
     enable: true
     title: "Связаться со мной"
     content: Если у вас есть вопрос или вы просто хотите сказать привет, я сделаю все возможное, чтобы ответить вам!
-    email: email@example.com
+    email: alexandra.bulgakova.writer@gmail.com
     btnName: Написать мне
     # formspree:
     #   enable: true # `contact.email` value will be ignored
