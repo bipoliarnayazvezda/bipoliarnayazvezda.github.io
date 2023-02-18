@@ -34,5 +34,6 @@ params:
     - "js/lazysizes.min.js"
     - "js/imagesloaded.pkgd.min.js"
   custom_css:
+    - "css/main.css"
     - "css/gallery.css"
     - "css/jquery.fancybox.min.css"
