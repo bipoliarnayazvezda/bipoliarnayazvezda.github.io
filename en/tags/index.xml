@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>https://bipoliarnayazvezda.github.io/en/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="https://bipoliarnayazvezda.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>example</title>
+      <link>https://bipoliarnayazvezda.github.io/en/tags/example/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      
+      <guid>https://bipoliarnayazvezda.github.io/en/tags/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown syntax</title>
+      <link>https://bipoliarnayazvezda.github.io/en/tags/markdown-syntax/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      
+      <guid>https://bipoliarnayazvezda.github.io/en/tags/markdown-syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathjax</title>
+      <link>https://bipoliarnayazvezda.github.io/en/tags/mathjax/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      
+      <guid>https://bipoliarnayazvezda.github.io/en/tags/mathjax/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
