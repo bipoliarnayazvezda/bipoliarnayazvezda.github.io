@@ -4,3 +4,6 @@ en:
 ru:
     languageName: Русский
     weight: 20
+ua:
+    languageName: Український
+    weight: 30

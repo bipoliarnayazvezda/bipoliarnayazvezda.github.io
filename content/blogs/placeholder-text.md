@@ -10,7 +10,7 @@ tags:
   - example
 image: /images/post.jpg
 description: ""
-toc: 
+toc:
 ---
 
 Lorem est tota propiore conpellat pectoribus de pectora summo.

@@ -277,10 +277,10 @@ params:
         links:
           - icon: fa fa-book
             url: https://bipoliarnayazvezda.github.io/insomnia/insomnia.epub
-        #   - icon: fab fa-github
-        #     url: https://github.com/gurusabarish/hugo-profile
-        #   - icon: fab fa-twitter
-        #     url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+          - icon: fa fa-file-word
+            url: https://bipoliarnayazvezda.github.io/insomnia/insomnia.docx
+          - icon: fa fa-file-pdf
+            url: https://bipoliarnayazvezda.github.io/insomnia/insomnia.pdf
 
       - title: When I was autopsied in the morgue
         content: Charming detective Ichabod Hart successfully investigates the most intricate murders.
@@ -353,6 +353,7 @@ params:
     copyright: "All rights reserved"
     pageNotFound: "Page not found"
     emailText: "Check out this site"
+    social: "Share"
 
   datesFormat:
     article: "Jan 2, 2006"

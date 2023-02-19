@@ -6,19 +6,15 @@
     <description>Recent content in Blogs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="https://bipoliarnayazvezda.github.io/en/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Feb 2023 23:29:21 +0000</lastBuildDate><atom:link href="https://bipoliarnayazvezda.github.io/en/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Render Math With Mathjax</title>
-      <link>https://bipoliarnayazvezda.github.io/en/blogs/math/</link>
-      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <title>Hello, my name is Alexandra</title>
+      <link>https://bipoliarnayazvezda.github.io/en/blogs/hello/</link>
+      <pubDate>Sat, 18 Feb 2023 23:29:21 +0000</pubDate>
       
-      <guid>https://bipoliarnayazvezda.github.io/en/blogs/math/</guid>
-      <description>Mathjax Math equations can be rendered using Mathjax syntax with AMS symbol support.
-Optionally enable this on a per-page basis by adding mathjax: true to your frontmatter.
-Then, use $$ ... $$ on a line by itself to render a block equation:
-$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$
-The raw version is:
-$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$ Write in-line equations with \\( .</description>
+      <guid>https://bipoliarnayazvezda.github.io/en/blogs/hello/</guid>
+      <description>My name is Alexandra and I am a writer. Sounds like an AA meeting, but still. I&amp;rsquo;m here to present my new book.
+Read here</description>
     </item>
     
   </channel>

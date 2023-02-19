@@ -265,6 +265,10 @@ params:
         links:
           - icon: fa fa-book
             url: https://bipoliarnayazvezda.github.io/insomnia/insomnia.epub
+          - icon: fa fa-file-word
+            url: https://bipoliarnayazvezda.github.io/insomnia/insomnia.docx
+          - icon: fa fa-file-pdf
+            url: https://bipoliarnayazvezda.github.io/insomnia/insomnia.pdf
         # badges:
         #   - "Hugo"
         #   - "Bootstrap"
@@ -339,7 +343,7 @@ params:
   singlePages:
     readTime:
       enable: true
-      content: "min read"
+      content: "хвилин"
 
   # For translations
   terms:
@@ -348,6 +352,7 @@ params:
     copyright: "Всі права захищені"
     pageNotFound: "Сторінка не знайдена"
     emailText: "Перегляньте цей сайт"
+    social: "Поделиться"
 
   datesFormat:
     article: "Jan 2, 2006"

@@ -6,30 +6,15 @@
     <description>Recent content in Blogs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="https://bipoliarnayazvezda.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Feb 2023 23:29:21 +0000</lastBuildDate><atom:link href="https://bipoliarnayazvezda.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Пост про математику</title>
-      <link>https://bipoliarnayazvezda.github.io/blogs/math/</link>
-      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <title>Привет, меня зовут Александра</title>
+      <link>https://bipoliarnayazvezda.github.io/blogs/hello/</link>
+      <pubDate>Sat, 18 Feb 2023 23:29:21 +0000</pubDate>
       
-      <guid>https://bipoliarnayazvezda.github.io/blogs/math/</guid>
-      <description>Mathjax Math equations can be rendered using Mathjax syntax with AMS symbol support.
-Optionally enable this on a per-page basis by adding mathjax: true to your frontmatter.
-Then, use $$ ... $$ on a line by itself to render a block equation:
-$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$
-The raw version is:
-$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$ Write in-line equations with \\( .</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://bipoliarnayazvezda.github.io/blogs/rich-content/</link>
-      <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
-      
-      <guid>https://bipoliarnayazvezda.github.io/blogs/rich-content/</guid>
-      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
-Gist Simple Shortcode {{&amp;lt; gist spf13 7896402 &amp;#34;img.html&amp;#34; &amp;gt;}} Twitter Simple Shortcode {{&amp;lt; tweet GoHugoIO 1315233626070503424 &amp;gt;}} Profile is a customizable single-page portfolio theme for Hugo featuring a contact form and blog. Made by @gurusabarishh.https://t.co/KwYcwfdy16
-&amp;mdash; GoHugo.io (@GoHugoIO) October 11, 2020 Vimeo Simple Shortcode {{&amp;lt; vimeo 146022717 &amp;gt;}} Youtube Simple Shortcode {{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}} Theme Custom Shortcodes These shortcodes are not Hugo built-ins, but are provided by the theme.</description>
+      <guid>https://bipoliarnayazvezda.github.io/blogs/hello/</guid>
+      <description>Меня зовут Александра, и я писатель. Звучит как на собрании АА, но тем не менее. Я здесь, чтобы представить мою новую книгу.
+Она здесь</description>
     </item>
     
   </channel>
