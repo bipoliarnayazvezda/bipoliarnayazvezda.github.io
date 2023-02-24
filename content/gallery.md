@@ -6,7 +6,7 @@ description: "Иллюстрации меня :earth_asia:"
 layout: "gallery"
 images:
   - src: /images/photos/photo1.jpg
-  - src: /images/photos/photo2.jpg
+  # - src: /images/photos/photo2.jpg
   - src: /images/photos/photo3.jpg
   - src: /images/photos/photo4.jpg
 ---

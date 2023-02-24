@@ -142,6 +142,7 @@ params:
         - "Русский"
         - "Украинский"
 
+
   # Experience
   experience:
     enable: true
@@ -324,7 +325,7 @@ params:
   footer:
     recentPosts:
       path: "blogs"
-      count: 3
+      count: 1
       title: Блог
       enable: true
       disableFeaturedImage: true

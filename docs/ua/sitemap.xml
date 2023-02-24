@@ -56,6 +56,81 @@
                 href="https://bipoliarnayazvezda.github.io/ua/blogs/hello/"
                 />
   </url><url>
+    <loc>https://bipoliarnayazvezda.github.io/ua/tags/example/</loc>
+    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bipoliarnayazvezda.github.io/en/tags/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bipoliarnayazvezda.github.io/tags/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://bipoliarnayazvezda.github.io/ua/tags/example/"
+                />
+  </url><url>
+    <loc>https://bipoliarnayazvezda.github.io/ua/tags/markdown-syntax/</loc>
+    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bipoliarnayazvezda.github.io/en/tags/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://bipoliarnayazvezda.github.io/ua/tags/markdown-syntax/"
+                />
+  </url><url>
+    <loc>https://bipoliarnayazvezda.github.io/ua/tags/mathjax/</loc>
+    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bipoliarnayazvezda.github.io/en/tags/mathjax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://bipoliarnayazvezda.github.io/ua/tags/mathjax/"
+                />
+  </url><url>
+    <loc>https://bipoliarnayazvezda.github.io/ua/tags/</loc>
+    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bipoliarnayazvezda.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bipoliarnayazvezda.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://bipoliarnayazvezda.github.io/ua/tags/"
+                />
+  </url><url>
+    <loc>https://bipoliarnayazvezda.github.io/ua/blogs/math/</loc>
+    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bipoliarnayazvezda.github.io/en/blogs/math/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://bipoliarnayazvezda.github.io/ua/blogs/math/"
+                />
+  </url><url>
     <loc>https://bipoliarnayazvezda.github.io/ua/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
     <xhtml:link
@@ -74,6 +149,25 @@
                 href="https://bipoliarnayazvezda.github.io/ua/gallery/"
                 />
   </url><url>
+    <loc>https://bipoliarnayazvezda.github.io/ua/blogs/markdown-syntax/</loc>
+    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://bipoliarnayazvezda.github.io/ua/tags/sample/</loc>
+    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bipoliarnayazvezda.github.io/tags/sample/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://bipoliarnayazvezda.github.io/ua/tags/sample/"
+                />
+  </url><url>
+    <loc>https://bipoliarnayazvezda.github.io/ua/tags/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D1%82%D0%B5%D0%B3/</loc>
+    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
+  </url><url>
     <loc>https://bipoliarnayazvezda.github.io/ua/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -89,23 +183,6 @@
                 rel="alternate"
                 hreflang="ua"
                 href="https://bipoliarnayazvezda.github.io/ua/categories/"
-                />
-  </url><url>
-    <loc>https://bipoliarnayazvezda.github.io/ua/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bipoliarnayazvezda.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bipoliarnayazvezda.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
-                href="https://bipoliarnayazvezda.github.io/ua/tags/"
                 />
   </url>
 </urlset>
