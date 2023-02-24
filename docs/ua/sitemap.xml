@@ -83,6 +83,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://bipoliarnayazvezda.github.io/tags/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ua"
                 href="https://bipoliarnayazvezda.github.io/ua/tags/markdown-syntax/"
                 />

@@ -78,6 +78,11 @@
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://bipoliarnayazvezda.github.io/tags/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ua"
                 href="https://bipoliarnayazvezda.github.io/ua/tags/markdown-syntax/"
                 />
@@ -147,18 +152,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://bipoliarnayazvezda.github.io/en/gallery/"
-                />
-  </url><url>
-    <loc>https://bipoliarnayazvezda.github.io/en/blogs/new-post/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bipoliarnayazvezda.github.io/blogs/new-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bipoliarnayazvezda.github.io/en/blogs/new-post/"
                 />
   </url><url>
     <loc>https://bipoliarnayazvezda.github.io/en/categories/</loc>
