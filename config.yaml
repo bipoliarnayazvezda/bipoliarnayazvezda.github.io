@@ -1,6 +1,6 @@
 baseURL: "https://bipoliarnayazvezda.github.io/"
 languageCode: "ru-ru"
-title: ""
+title: "Александра Булгакова"
 theme: hugo-profile
 publishDir: docs
 
