@@ -37,3 +37,6 @@ params:
     - "css/main.css"
     - "css/gallery.css"
     - "css/jquery.fancybox.min.css"
+
+permalinks:
+  blogs: /:year/:month/:day/:title/

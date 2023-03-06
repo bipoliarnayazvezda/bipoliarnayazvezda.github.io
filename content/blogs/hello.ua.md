@@ -1,7 +1,7 @@
 ---
 title: "Привіт, мене звуть Олександра"
 date: 2023-02-18T23:29:21Z
-draft: false
+draft: true
 github_link:
 image: ""
 description: ""

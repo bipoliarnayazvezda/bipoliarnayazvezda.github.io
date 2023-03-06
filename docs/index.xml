@@ -6,27 +6,15 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 18 Feb 2023 23:29:21 +0000</lastBuildDate><atom:link href="https://bipoliarnayazvezda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 22:00:00 +0000</lastBuildDate><atom:link href="https://bipoliarnayazvezda.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Привет, меня зовут Александра</title>
-      <link>https://bipoliarnayazvezda.github.io/blogs/hello/</link>
-      <pubDate>Sat, 18 Feb 2023 23:29:21 +0000</pubDate>
+      <title>Бессонница</title>
+      <link>https://bipoliarnayazvezda.github.io/2023/03/06/%D0%B1%D0%B5%D1%81%D1%81%D0%BE%D0%BD%D0%BD%D0%B8%D1%86%D0%B0/</link>
+      <pubDate>Mon, 06 Mar 2023 22:00:00 +0000</pubDate>
       
-      <guid>https://bipoliarnayazvezda.github.io/blogs/hello/</guid>
-      <description>Меня зовут Александра, и я писатель. Звучит как на собрании АА, но тем не менее. Я здесь, чтобы представить мою новую книгу.
-Она здесь</description>
-    </item>
-    
-    <item>
-      <title>Шпаргалка про то как писать посты</title>
-      <link>https://bipoliarnayazvezda.github.io/blogs/new-post/</link>
-      <pubDate>Sat, 18 Feb 2023 23:29:21 +0000</pubDate>
-      
-      <guid>https://bipoliarnayazvezda.github.io/blogs/new-post/</guid>
-      <description>Это заголовок. Здесь мы будем вставлять картинки Картинку мы положим в папку с постом.
-Заголовок картинки Можно делать картинку и без подписи и даже задать ее размеры для отображения предпросмотра.
-Можно сделать галерею из картинок в обычном посте. Для этого нужно сделать папку внутри папки поста и положить туда картинки. Например, здесь мы сделали папку img и положили туда картинки.
-Можно конечно и совсем тупо картинку вставлять, но тогда она не будет вписываться на страницу</description>
+      <guid>https://bipoliarnayazvezda.github.io/2023/03/06/%D0%B1%D0%B5%D1%81%D1%81%D0%BE%D0%BD%D0%BD%D0%B8%D1%86%D0%B0/</guid>
+      <description>Друзья, привет!
+Я очень рада приветствовать вас в моем блоге, где я рассказываю о своих книгах и поделюсь с вами своей новой историей. Новая книга не о биполярном расстройстве личности, не о любви, не о депрессии, не о счастье, не о жизни и не о смерти. Но она обо всем этом одновременно. Это история о том, как мы можем научиться жить с теми эмоциями, которые кажутся нам трудными, и как мы можем найти свой путь к счастью.</description>
     </item>
     
     <item>
@@ -36,40 +24,6 @@
       
       <guid>https://bipoliarnayazvezda.github.io/gallery/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://bipoliarnayazvezda.github.io/blogs/emoji-support/</link>
-      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
-      
-      <guid>https://bipoliarnayazvezda.github.io/blogs/emoji-support/</guid>
-      <description>Emoji can be enabled in a Hugo project in a number of ways. :zap:
-Emoji Support The emojify function can be called directly in templates or Inline Shortcodes.
-To enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.g.
-The Emoji cheat sheet is a useful reference for emoji shorthand codes.
-N.B. The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform.</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://bipoliarnayazvezda.github.io/blogs/placeholder-text/</link>
-      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      
-      <guid>https://bipoliarnayazvezda.github.io/blogs/placeholder-text/</guid>
-      <description>Lorem est tota propiore conpellat pectoribus de pectora summo.
-Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
-Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude Rursus nulli murmur; hastile inridet ut ab gravi sententia!</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://bipoliarnayazvezda.github.io/blogs/rich-content/</link>
-      <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
-      
-      <guid>https://bipoliarnayazvezda.github.io/blogs/rich-content/</guid>
-      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
-Gist Simple Shortcode {{&amp;lt; gist spf13 7896402 &amp;#34;img.html&amp;#34; &amp;gt;}} Twitter Simple Shortcode {{&amp;lt; tweet GoHugoIO 1315233626070503424 &amp;gt;}} Vimeo Simple Shortcode {{&amp;lt; vimeo 146022717 &amp;gt;}} Youtube Simple Shortcode {{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}} Theme Custom Shortcodes These shortcodes are not Hugo built-ins, but are provided by the theme.</description>
     </item>
     
   </channel>
