@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello, my name is Alexandra on </title>
+    <link>https://bipoliarnayazvezda.github.io/en/blogs/hello/</link>
+    <description>Recent content in Hello, my name is Alexandra on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sat, 18 Feb 2023 23:29:21 +0000</lastBuildDate><atom:link href="https://bipoliarnayazvezda.github.io/en/blogs/hello/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
