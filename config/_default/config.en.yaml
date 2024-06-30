@@ -264,6 +264,19 @@ params:
     enable: true
     title: "Books"
     items:
+      - title: We are glad to see you at the funeral services bureau "Pendulum"
+        content:
+        image: ""
+        featured:
+          name: Read book
+          link: https://bipoliarnayazvezda.github.io/pendulum/
+        links:
+          - icon: fa fa-book
+            url: https://bipoliarnayazvezda.github.io/pendulum/pendulum.epub
+          - icon: fa fa-file-word
+            url: https://bipoliarnayazvezda.github.io/pendulum/pendulum.docx
+          - icon: fa fa-file-pdf
+            url: https://bipoliarnayazvezda.github.io/pendulum/pendulum.pdf
       - title: Insomnia
         content: ""
         image: ""

@@ -6,7 +6,11 @@
     <description>Recent content in Blogs on Александра Булгакова</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 06 Mar 2023 22:00:00 +0000</lastBuildDate><atom:link href="https://bipoliarnayazvezda.github.io/ua/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 22:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://bipoliarnayazvezda.github.io/ua/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Безсоння</title>
       <link>https://bipoliarnayazvezda.github.io/ua/2023/03/06/%D0%B1%D0%B5%D0%B7%D1%81%D0%BE%D0%BD%D0%BD%D1%8F/</link>

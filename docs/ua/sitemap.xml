@@ -38,26 +38,6 @@
   </url>
   
   <url>
-    <loc>https://bipoliarnayazvezda.github.io/ua/</loc>
-    <lastmod>2023-03-06T22:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bipoliarnayazvezda.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bipoliarnayazvezda.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
-                href="https://bipoliarnayazvezda.github.io/ua/"
-                />
-  </url>
-  
-  <url>
     <loc>https://bipoliarnayazvezda.github.io/ua/2023/03/06/%D0%B1%D0%B5%D0%B7%D1%81%D0%BE%D0%BD%D0%BD%D1%8F/</loc>
     <lastmod>2023-03-06T22:00:00+00:00</lastmod>
     <xhtml:link
@@ -84,6 +64,26 @@
                 rel="alternate"
                 hreflang="ua"
                 href="https://bipoliarnayazvezda.github.io/ua/tags/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bipoliarnayazvezda.github.io/ua/</loc>
+    <lastmod>2022-06-25T18:35:46+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bipoliarnayazvezda.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bipoliarnayazvezda.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://bipoliarnayazvezda.github.io/ua/"
                 />
   </url>
   

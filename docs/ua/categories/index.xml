@@ -5,6 +5,10 @@
     <link>https://bipoliarnayazvezda.github.io/ua/categories/</link>
     <description>Recent content in Categories on Александра Булгакова</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru-ru</language><atom:link href="https://bipoliarnayazvezda.github.io/ua/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru-ru</language>
+    
+	<atom:link href="https://bipoliarnayazvezda.github.io/ua/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

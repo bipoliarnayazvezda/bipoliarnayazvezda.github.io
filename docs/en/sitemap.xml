@@ -23,6 +23,26 @@
   </url>
   
   <url>
+    <loc>https://bipoliarnayazvezda.github.io/en/</loc>
+    <lastmod>2022-06-25T18:35:46+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bipoliarnayazvezda.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://bipoliarnayazvezda.github.io/ua/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bipoliarnayazvezda.github.io/en/"
+                />
+  </url>
+  
+  <url>
     <loc>https://bipoliarnayazvezda.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -57,25 +77,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://bipoliarnayazvezda.github.io/en/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://bipoliarnayazvezda.github.io/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://bipoliarnayazvezda.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
-                href="https://bipoliarnayazvezda.github.io/ua/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bipoliarnayazvezda.github.io/en/"
                 />
   </url>
   

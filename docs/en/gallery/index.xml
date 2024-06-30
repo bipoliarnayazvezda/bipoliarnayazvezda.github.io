@@ -6,6 +6,10 @@
     <description>Recent content in Gallery on Александра Булгакова</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 25 Jun 2022 18:35:46 +0530</lastBuildDate><atom:link href="https://bipoliarnayazvezda.github.io/en/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jun 2022 18:35:46 +0530</lastBuildDate>
+    
+	<atom:link href="https://bipoliarnayazvezda.github.io/en/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

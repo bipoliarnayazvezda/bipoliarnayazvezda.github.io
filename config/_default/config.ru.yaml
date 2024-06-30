@@ -257,6 +257,19 @@ params:
     enable: true
     title: "Книги"
     items:
+      - title: Рады видеть вас в бюро ритуальных услуг «Маятник»
+        content: И все, что я любил – я любил в одиночестве.
+        image: ""
+        featured:
+          name: Читать книгу
+          link: https://bipoliarnayazvezda.github.io/pendulum/
+        links:
+          - icon: fa fa-book
+            url: https://bipoliarnayazvezda.github.io/pendulum/pendulum.epub
+          - icon: fa fa-file-word
+            url: https://bipoliarnayazvezda.github.io/pendulum/pendulum.docx
+          - icon: fa fa-file-pdf
+            url: https://bipoliarnayazvezda.github.io/pendulum/pendulum.pdf
       - title: Бессонница
         content: "Новая книга не о биполярном расстройстве личности, не о любви, не о депрессии, не о счастье, не о жизни и не о смерти. Но она обо всем этом одновременно. Это история о том, как мы можем научиться жить с теми эмоциями, которые кажутся нам трудными, и как мы можем найти свой путь к счастью."
         image: ""

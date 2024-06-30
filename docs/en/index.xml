@@ -5,7 +5,12 @@
     <link>https://bipoliarnayazvezda.github.io/en/</link>
     <description>Recent content on Александра Булгакова</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru-ru</language><atom:link href="https://bipoliarnayazvezda.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru-ru</language>
+    <lastBuildDate>Sat, 25 Jun 2022 18:35:46 +0530</lastBuildDate>
+    
+	<atom:link href="https://bipoliarnayazvezda.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Gallery</title>
       <link>https://bipoliarnayazvezda.github.io/en/gallery/</link>
