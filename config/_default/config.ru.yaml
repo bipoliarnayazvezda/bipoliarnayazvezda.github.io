@@ -259,6 +259,32 @@ params:
     enable: true
     title: "Книги"
     items:
+      - title: Голос травмированного поколения
+        content: 
+        image: ""
+        featured:
+          name: Читать книгу
+          link: https://bipoliarnayazvezda.github.io/voice/
+        links:
+          - icon: fa fa-book
+            url: https://bipoliarnayazvezda.github.io/voice/voice.epub
+          - icon: fa fa-file-word
+            url: https://bipoliarnayazvezda.github.io/voice/voice.docx
+          - icon: fa fa-file-pdf
+            url: https://bipoliarnayazvezda.github.io/voice/voice.pdf
+      - title: SciFi
+        content: 
+        image: ""
+        featured:
+          name: Читать книгу
+          link: https://bipoliarnayazvezda.github.io/scifi/
+        links:
+          - icon: fa fa-book
+            url: https://bipoliarnayazvezda.github.io/scifi/scifi.epub
+          - icon: fa fa-file-word
+            url: https://bipoliarnayazvezda.github.io/scifi/scifi.docx
+          - icon: fa fa-file-pdf
+            url: https://bipoliarnayazvezda.github.io/scifi/scifi.pdf
       - title: Рады видеть вас в бюро ритуальных услуг «Маятник»
         content: И все, что я любил – я любил в одиночестве.
         image: ""
