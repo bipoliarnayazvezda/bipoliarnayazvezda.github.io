@@ -271,19 +271,19 @@ params:
             url: https://bipoliarnayazvezda.github.io/voice/voice.docx
           - icon: fa fa-file-pdf
             url: https://bipoliarnayazvezda.github.io/voice/voice.pdf
-      - title: SciFi
+      - title: Цілься в Місяць
         content:
         image: ""
         featured:
           name: Читати книгу
-          link: https://bipoliarnayazvezda.github.io/scifi/
+          link: https://bipoliarnayazvezda.github.io/moon/
         links:
           - icon: fa fa-book
-            url: https://bipoliarnayazvezda.github.io/scifi/scifi.epub
+            url: https://bipoliarnayazvezda.github.io/moon/moon.epub
           - icon: fa fa-file-word
-            url: https://bipoliarnayazvezda.github.io/scifi/scifi.docx
+            url: https://bipoliarnayazvezda.github.io/moon/moon.docx
           - icon: fa fa-file-pdf
-            url: https://bipoliarnayazvezda.github.io/scifi/scifi.pdf
+            url: https://bipoliarnayazvezda.github.io/moon/moon.pdf
       - title: Раді бачити вас у бюро ритуальних послуг «Маятник»
         content:
         image: ""
