@@ -113,8 +113,9 @@ params:
           url: https://www.instagram.com/bipoliarnaya.zvezda/
         - icon: fab fa-linkedin-in
           url: https://www.linkedin.com/in/xandracurtis
-       # - icon: fab fa-github
-       #   url: https://github.com/tattooedwriter
+      customIcons:
+        - icon: /images/onlyfans.svg
+          url: https://onlyfans.com/sasharenton
         # - icon: fab fa-twitter
         #   url: https://example.com
       # customIcons:
