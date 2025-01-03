@@ -110,12 +110,12 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-instagram
-          url: https://www.instagram.com/bipoliarnaya.zvezda/
+          url: https://www.instagram.com/lizard.queen.psy/
         - icon: fab fa-linkedin-in
           url: https://www.linkedin.com/in/xandracurtis
-      customIcons:
-        - icon: /images/onlyfans.svg
-          url: https://onlyfans.com/sasharenton
+      # customIcons:
+      #   - icon: /images/onlyfans.svg
+      #     url: https://onlyfans.com/sasharenton
         # - icon: fab fa-twitter
         #   url: https://example.com
       # customIcons:
