@@ -5,7 +5,19 @@ backend:
   branch: main
 media_folder: "static/images" # Folder where user uploaded files should go
 public_folder: "images"
+i18n:
+  # Required and can be one of multiple_folders, multiple_files or single_file
+  # multiple_folders - persists files in `<folder>/<locale>/<slug>.<extension>`
+  # multiple_files - persists files in `<folder>/<slug>.<locale>.<extension>`
+  # single_file - persists a single file in `<folder>/<slug>.<extension>`
+  structure: multiple_files
 
+  # Required - a list of locales to show in the editor UI
+  locales: [ru, en, ua]
+
+  # Optional, defaults to the first item in locales.
+  # The locale to be used for fields validation and as a baseline for the entry.
+  default_locale: ru
 collections:
   - name: "blogs" # Used in routes, e.g., /admin/collections/post
     label: "Blogs" # Used in the UI
@@ -14,17 +26,7 @@ collections:
     media_folder: "" # Save images in the post's own folder instead of the static folder
     public_folder: ""
     create: true # Allow users to create new documents in this collection
-    i18n:
-      # Required and can be one of multiple_folders, multiple_files or single_file
-      # multiple_folders - persists files in `<folder>/<locale>/<slug>.<extension>`
-      # multiple_files - persists files in `<folder>/<slug>.<locale>.<extension>`
-      # single_file - persists a single file in `<folder>/<slug>.<extension>`
-      structure: multiple_files
-      # Required - a list of locales to show in the editor UI
-      locales: [ru, en, ua]
-      # Optional, defaults to the first item in locales.
-      # The locale to be used for fields validation and as a baseline for the entry.
-      default_locale: ru
+    i18n: true
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
