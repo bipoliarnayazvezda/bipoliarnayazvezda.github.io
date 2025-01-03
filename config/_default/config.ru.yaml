@@ -356,7 +356,7 @@ params:
     enable: true
     title: "Связаться со мной"
     content: Если у вас есть вопрос или вы просто хотите сказать привет, я сделаю все возможное, чтобы ответить вам!
-    email: alexandra.bulgakova.writer@gmail.com
+    email: bulgakova.writer@gmail.com
     btnName: Написать мне
     # formspree:
     #   enable: true # `contact.email` value will be ignored
