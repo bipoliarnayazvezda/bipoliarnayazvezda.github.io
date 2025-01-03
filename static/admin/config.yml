@@ -23,7 +23,6 @@ collections:
     label: "Blogs" # Used in the UI
     folder: "content/blogs" # The path to the folder where the documents are stored
     path: "{{slug}}/index"
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     media_folder: "" # Save images in the post's own folder instead of the static folder
     public_folder: ""
     create: true # Allow users to create new documents in this collection

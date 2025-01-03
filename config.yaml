@@ -4,7 +4,7 @@ title: "Александра Булгакова"
 theme: hugo-profile
 publishDir: docs
 
-defaultContentLanguage: "ru"
+# defaultContentLanguage: "en"
 
 ignoreErrors: ["error-remote-getjson"]
 
