@@ -31,7 +31,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Featured Image", name: "image", widget: "image" }
+      - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Draft", name: "draft", widget: "boolean", default: true}
       - { label: "Table of content", name: "toc", widget: "boolean", default: false}
       - { label: "Tags", name: "tags", widget: "list", summary: "{{fields.tag}}", field: { label: "Tag", name: "tag", widget: "string" }} # https://github.com/decaporg/decap-cms/issues/4646 
