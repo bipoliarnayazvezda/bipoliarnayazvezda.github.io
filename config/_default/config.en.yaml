@@ -110,7 +110,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-instagram
-          url: https://www.instagram.com/bipoliarnaya.zvezda/
+          url: https://www.instagram.com/lizard.queen.psy/
         - icon: fab fa-linkedin-in
           url: https://www.linkedin.com/in/xandracurtis
        # - icon: fab fa-github
@@ -265,7 +265,7 @@ params:
     title: "Books"
     items:
       - title: Voice of a traumatized generation
-        content: 
+        content:
         image: ""
         featured:
           name: Read book
@@ -372,7 +372,7 @@ params:
       #github: https://github.com
       linkedin: https://www.linkedin.com/in/xandracurtis
       #twitter: https://twitter.com
-      instagram: https://www.instagram.com/bipoliarnaya.zvezda/
+      instagram: https://www.instagram.com/lizard.queen.psy/
       #facebook: https://facebook.com
 
   # List pages like blogs and posts

@@ -35,7 +35,6 @@
 <meta property="og:image" content="" />
 <meta property="og:image" content="" />
 <meta property="og:image" content="" />
-<meta property="og:image" content="" />
 <meta property="article:published_time" content="2022-06-25T18:35:46+05:30" />
 <meta property="article:modified_time" content="2022-06-25T18:35:46+05:30" /><meta property="og:site_name" content="Олександра Булгакова" />
 
@@ -116,6 +115,8 @@
 Галерея | Александра Булгакова
 
   </title>
+  
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 
 <body class="light">
@@ -269,7 +270,7 @@
                         
 
                         
-                            <a class="nav-link" href="/en/gallery/">EN</a>
+                            <a class="nav-link" href="/gallery/">EN</a>
                         
                     
                         
@@ -278,7 +279,7 @@
                         
 
                         
-                            <a class="nav-link" href="/gallery/">RU</a>
+                            <a class="nav-link" href="/ru/gallery/">RU</a>
                         
                     
                         
@@ -309,10 +310,6 @@
         
             <a data-fancybox="gallery" href="/images/photos/photo1.jpg">
             <img data-src="/images/photos/photo1.jpg" class="lazyload" alt="" width="" height="">
-            </a>
-        
-            <a data-fancybox="gallery" href="/images/photos/photo2.jpg">
-            <img data-src="/images/photos/photo2.jpg" class="lazyload" alt="" width="" height="">
             </a>
         
             <a data-fancybox="gallery" href="/images/photos/photo3.jpg">
@@ -378,7 +375,7 @@
     
 
     
-    <a href="https://www.instagram.com/bipoliarnaya.zvezda/" aria-label="instagram">
+    <a href="https://www.instagram.com/lizard.queen.psy/" aria-label="instagram">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px">
             <radialGradient id="yOrnnhliCrdS2gy~4tD8ma" cx="19.38" cy="42.035" r="44.899"
                 gradientUnits="userSpaceOnUse">
@@ -484,6 +481,20 @@
   <section id="search-content" class="py-2">
     <div class="container" id="search-results"></div>
   </section>
+
+  
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
+  
 </body>
 
 </html>

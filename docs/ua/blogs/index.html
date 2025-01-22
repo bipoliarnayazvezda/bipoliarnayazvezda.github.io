@@ -109,6 +109,8 @@
 Blogs | Александра Булгакова
 
   </title>
+  
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 
 <body class="light">
@@ -258,9 +260,11 @@ Blogs | Александра Булгакова
                     
                         
                         
+                        
+                        
 
                         
-                            <a class="nav-link" href="/en/">EN</a>
+                            <a class="nav-link" href="/blogs/">EN</a>
                         
                     
                         
@@ -269,7 +273,7 @@ Blogs | Александра Булгакова
                         
 
                         
-                            <a class="nav-link" href="/blogs/">RU</a>
+                            <a class="nav-link" href="/ru/blogs/">RU</a>
                         
                     
                         
@@ -376,7 +380,7 @@ Blogs | Александра Булгакова
     
 
     
-    <a href="https://www.instagram.com/bipoliarnaya.zvezda/" aria-label="instagram">
+    <a href="https://www.instagram.com/lizard.queen.psy/" aria-label="instagram">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px">
             <radialGradient id="yOrnnhliCrdS2gy~4tD8ma" cx="19.38" cy="42.035" r="44.899"
                 gradientUnits="userSpaceOnUse">
@@ -482,6 +486,20 @@ Blogs | Александра Булгакова
   <section id="search-content" class="py-2">
     <div class="container" id="search-results"></div>
   </section>
+
+  
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
+  
 </body>
 
 </html>

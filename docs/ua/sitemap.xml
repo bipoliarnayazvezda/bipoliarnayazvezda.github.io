@@ -7,8 +7,13 @@
     <lastmod>2023-03-06T22:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="en"
                 href="https://bipoliarnayazvezda.github.io/blogs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bipoliarnayazvezda.github.io/ru/blogs/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -23,12 +28,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bipoliarnayazvezda.github.io/en/tags/"
+                href="https://bipoliarnayazvezda.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://bipoliarnayazvezda.github.io/tags/"
+                href="https://bipoliarnayazvezda.github.io/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -42,8 +47,13 @@
     <lastmod>2023-03-06T22:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://bipoliarnayazvezda.github.io/2023/03/06/%D0%B1%D0%B5%D0%B7%D1%81%D0%BE%D0%BD%D0%BD%D1%8F/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
-                href="https://bipoliarnayazvezda.github.io/2023/03/06/%D0%B1%D0%B5%D1%81%D1%81%D0%BE%D0%BD%D0%BD%D0%B8%D1%86%D0%B0/"
+                href="https://bipoliarnayazvezda.github.io/ru/2023/03/06/%D0%B1%D0%B5%D1%81%D1%81%D0%BE%D0%BD%D0%BD%D0%B8%D1%86%D0%B0/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -57,8 +67,13 @@
     <lastmod>2023-03-06T22:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="en"
                 href="https://bipoliarnayazvezda.github.io/tags/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://bipoliarnayazvezda.github.io/ru/tags/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -73,12 +88,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bipoliarnayazvezda.github.io/en/"
+                href="https://bipoliarnayazvezda.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://bipoliarnayazvezda.github.io/"
+                href="https://bipoliarnayazvezda.github.io/ru/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -93,12 +108,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bipoliarnayazvezda.github.io/en/gallery/"
+                href="https://bipoliarnayazvezda.github.io/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://bipoliarnayazvezda.github.io/gallery/"
+                href="https://bipoliarnayazvezda.github.io/ru/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -112,12 +127,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bipoliarnayazvezda.github.io/en/categories/"
+                href="https://bipoliarnayazvezda.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://bipoliarnayazvezda.github.io/categories/"
+                href="https://bipoliarnayazvezda.github.io/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"

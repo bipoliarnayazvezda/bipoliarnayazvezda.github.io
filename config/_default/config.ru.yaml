@@ -113,14 +113,6 @@ params:
           url: https://www.instagram.com/lizard.queen.psy/
         - icon: fab fa-linkedin-in
           url: https://www.linkedin.com/in/xandracurtis
-      # customIcons:
-      #   - icon: /images/onlyfans.svg
-      #     url: https://onlyfans.com/sasharenton
-        # - icon: fab fa-twitter
-        #   url: https://example.com
-      # customIcons:
-      #   - icon: /fav.png
-      #     url: "https://example.com"
 
   # About
   about:
@@ -261,7 +253,7 @@ params:
     title: "Книги"
     items:
       - title: Голос травмированного поколения
-        content: 
+        content:
         image: ""
         featured:
           name: Читать книгу
@@ -274,7 +266,7 @@ params:
           - icon: fa fa-file-pdf
             url: https://bipoliarnayazvezda.github.io/voice/voice.pdf
       - title: Целься в Луну
-        content: 
+        content:
         image: ""
         featured:
           name: Читать книгу
@@ -375,7 +367,7 @@ params:
       #github: https://github.com
       linkedin: https://www.linkedin.com/in/xandracurtis
       #twitter: https://twitter.com
-      instagram: https://www.instagram.com/bipoliarnaya.zvezda/
+      instagram: https://www.instagram.com/lizard.queen.psy/
       #facebook: https://facebook.com
 
   # List pages like blogs and posts
