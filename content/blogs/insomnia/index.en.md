@@ -1,5 +1,5 @@
 ---
-title: "Безсоння"
+title: "Insomnia, Aquarium, and All My Suicides"
 date: 2023-03-06T22:00:00Z
 draft: false
 github_link:
